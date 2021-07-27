@@ -1,0 +1,1 @@
+Trying tensorflow 2 with python - https://www.tensorflow.org/tutorials/images/classification
